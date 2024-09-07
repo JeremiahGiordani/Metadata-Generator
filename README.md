@@ -2,7 +2,7 @@
 
 This project helps you generate a title, description, and 50 keywords for your stock video files. The system automatically analyzes your uploaded videos to provide the best metadata for describing your videos on stock footage platforms.
 
-You can run it by following the directions below, or going to the publically available <a href='https://colab.research.google.com/drive/1SOC2HraepTh0ifOzvhZseWnx72U22qB0?usp=sharing'>Google Colab notebook<a>
+You can run it by following the directions below, or going to the publically available <a href='https://colab.research.google.com/drive/1SOC2HraepTh0ifOzvhZseWnx72U22qB0?usp=sharing'>Google Colab notebook</a>
 
 ## Features
 - Automatically generates video titles, descriptions, and keywords using OpenAI's GPT API.
@@ -16,7 +16,7 @@ You can run it by following the directions below, or going to the publically ava
 This platform helps you generate a title, description, and 50 keywords for your stock video files. Simply upload your videos, and the system will handle the rest!
 
 ### How to Use:
-1. Open the provided notebook in Google Colab.
+1. Download the <a href='https://github.com/JeremiahGiordani/Metadata-Generator/blob/main/MetadataGenerator%20(release%201-0-0).ipynb'>.ipynb</a> file and open the notebook in Google Colab.
 2. In the code cell where prompted, paste your OpenAI API key inside the quotes.
 3. Click on the "File" icon on the left panel to upload your video files. (This might take a little while, so be sure to wait until the videos are completely uploaded.)
 4. Once the files are uploaded, click the "Runtime" tab and select "Run All" to start processing.
