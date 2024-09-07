@@ -4,7 +4,7 @@ This project helps you generate a title, description, and 50 keywords for your s
 
 ## Features
 - Automatically generates video titles, descriptions, and keywords using OpenAI's GPT API.
-- Supports processing of multiple `.mp4` videos.
+- Supports processing of multiple `.mp4` and `.mov` video files.
 - Outputs results both in the notebook and as a pipe-delimited text file (`video_metadata_output.txt`).
 
 ---
