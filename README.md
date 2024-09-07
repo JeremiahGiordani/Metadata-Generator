@@ -1,4 +1,3 @@
-```markdown
 # Metadata-Generator
 
 This project helps you generate a title, description, and 50 keywords for your stock video files. The system automatically analyzes your uploaded videos to provide the best metadata for describing your videos on stock footage platforms.
