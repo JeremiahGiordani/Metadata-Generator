@@ -1,0 +1,8 @@
+ipython==7.34.0
+ipython-genutils==0.2.0
+ipython-sql==0.5.0
+ipywidgets==7.7.1
+moviepy==1.0.3
+Pillow==9.4.0
+requests==2.32.3
+requests-oauthlib==1.3.1
